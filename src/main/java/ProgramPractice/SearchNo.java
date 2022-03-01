@@ -1,4 +1,4 @@
-package  ProgramPractice;
+package ProgramPractice;
 
 public class SearchNo {
 

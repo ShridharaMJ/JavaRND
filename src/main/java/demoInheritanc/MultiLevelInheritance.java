@@ -1,4 +1,4 @@
-package  demoInheritanc;
+package demoInheritanc;
 
 public class MultiLevelInheritance {
 

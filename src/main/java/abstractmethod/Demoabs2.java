@@ -1,12 +1,12 @@
 package abstractmethod;
 
-public abstract class Demoabs2 extends Demoabs1{
+public abstract class Demoabs2 extends Demoabs1 {
 
-	@Override
-	public void createOE() {
-		System.out.println("OE is created by account manager");
-		
-	}
+    @Override
+    public void createOE() {
+        System.out.println("OE is created by account manager");
 
-	
+    }
+
+
 }

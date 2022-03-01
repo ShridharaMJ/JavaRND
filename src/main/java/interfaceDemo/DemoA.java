@@ -1,15 +1,13 @@
-package  interfaceDemo;
+package interfaceDemo;
 
 public interface DemoA {
-	
-	int x=100;
-	
-	
-	
-	
-void methodOne();
+
+    int x = 100;
 
 
-void methodTwo(int num1,int num3);
+    void methodOne();
+
+
+    void methodTwo(int num1, int num3);
 
 }
